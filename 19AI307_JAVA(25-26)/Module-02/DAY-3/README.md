@@ -39,8 +39,8 @@ To write a Java program that defines a class BankAccount with private attributes
 /*
 Program to implement a Access Specifiers using Java
 
-Developed by : PRIYADHARSHINI E
-RegisterNumber: 212223230159
+Developed by: SARANYA S
+RegisterNumber: 212223220101
 */
 ```
 

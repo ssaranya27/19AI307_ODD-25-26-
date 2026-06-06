@@ -18,8 +18,8 @@ To write a Java program that demonstrates method overriding using inheritance an
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: PRIYADHARSHINI E 
-RegisterNumber: 212223230159
+Developed by: SARANYA S
+RegisterNumber: 212223220101
 */
 ```
 
